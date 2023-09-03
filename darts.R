@@ -12,5 +12,3 @@ score <- function(x, y) {
     return(10)
   }
 }
-
-score(0,10)
